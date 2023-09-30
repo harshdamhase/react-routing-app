@@ -5,7 +5,8 @@ function About() {
   return (
     <div className='container'>
         <Navbar/>
-About
+
+<h1>About page</h1>
         </div>
   )
 }
